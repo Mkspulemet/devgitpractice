@@ -1,5 +1,8 @@
-print('Hello World')
+def lasy_f():
+    pass
 
-1+1
+
+print('Hello BOYS')
+
 
 print(123)
