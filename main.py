@@ -5,4 +5,9 @@ def lasy_f(a, b):
 print('Hello BOYS')
 
 
-print(123)
+def my_future_f():
+
+    a = 12
+    b = 19
+    return a + b
+
