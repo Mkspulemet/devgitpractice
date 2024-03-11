@@ -1,7 +1,7 @@
 def lasy_f(a, b):
     'blablabla.'
 
-    return a + b
+    return a, b
 
 
 def new():
