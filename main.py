@@ -1,13 +1,15 @@
 def lasy_f(a, b):
+    'blablablaa'
+
     print(a, b)
+    print('Hello BOYS')
 
 
-print('Hello BOYS')
+def new():
+    pass
 
 
 def my_future_f():
-
-    a = 12
-    b = 19
-    return a + b
-
+    size = 44
+    price = 19
+    return size + price
