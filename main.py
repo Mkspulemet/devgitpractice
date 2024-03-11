@@ -1,5 +1,5 @@
 def lasy_f(a, b):
-    'blablabla.'
+    'blablabla.hdfghfdgh'
 
     size = 44
     price = 19
